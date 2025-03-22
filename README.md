@@ -86,5 +86,5 @@ Notes
 
 Author
 
-Developed by Srishyla Kumar TP
+Developed by Srishyla Kumar TP and Sakshi Shetty
 
